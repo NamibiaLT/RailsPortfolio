@@ -1,8 +1,12 @@
 source 'https://rubygems.org'
 
+echo "# RailsPortfolio"
 git_source(:github) do |repo_name|
   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
   "https://github.com/#{repo_name}.git"
+  # repo_name = "NamibiaLT/RailsPortfolio" unless repo_name.include?("/")
+  # https://github.com/NamibiaLT/RailsPortfolio.git
+
 end
 
 gem 'rspec', '~> 3.7'

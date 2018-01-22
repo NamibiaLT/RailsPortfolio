@@ -1,24 +1,8 @@
-# README
+# Namibia Torres's Developer Portfolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_This Web Portfolio was created so that I could both update my existing portfolio with the work I have been doing, and work on strengthening my skills in Rails_
 
-Things you may want to cover:
+###<u>About Me:</u>###
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* I am a self taught developer, who is a career changer with a Nutrition Science, Statistics, and Research Background
+* I currently work for an amazing software company as a Software Engineer, and I am not looking for work. I love my company and I love what I do.
