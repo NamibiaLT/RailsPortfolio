@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
-echo "# RailsPortfolio"
-git_source(:github) do |repo_name|
-  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
-  "https://github.com/#{repo_name}.git"
-  # repo_name = "NamibiaLT/RailsPortfolio" unless repo_name.include?("/")
-  # https://github.com/NamibiaLT/RailsPortfolio.git
+# echo "# RailsPortfolio"
+# git_source(:github) do |repo_name|
+#   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
+#   "https://github.com/#{repo_name}.git"
+#   # repo_name = "NamibiaLT/RailsPortfolio" unless repo_name.include?("/")
+#   # https://github.com/NamibiaLT/RailsPortfolio.git
 
-end
+# end
 
 gem 'rspec', '~> 3.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
